@@ -41,3 +41,24 @@ A entrada consiste de diversos casos de teste. Cada caso de teste consiste uma s
 
 Saída
 Para cada condição de levantamento de pernas do papagaio, imprima a linguagem que ele utilizará. Caso ele levante ambas as pernas, imprima “caiu”. Quebre uma linha a cada caso de teste.
+
+# Questão 3
+A empresa que você trabalha resolveu conceder um aumento salarial a todos funcionários, de acordo com a tabela abaixo:
+Salário	Percentual de Reajuste
+
+| Faixa salarial | Reajuste |
+|--- |--- 
+| 0 - 600.00 | 17%
+| 600.01 - 900.00 | 13%
+| 900.01 - 1500.00 | 12%
+| 1500.01 - 2000.00 | 10% 
+| Acima de 2000.0 | 05% |
+
+Leia o salário do funcionário e calcule e mostre o novo salário, bem como o valor de reajuste ganho e o índice reajustado, em percentual.
+A entrada contém apenas um valor de ponto flutuante, que pode ser maior ou igual a zero, com duas casas decimais, conforme exemplos abaixo.
+
+| Entrada | Saída |
+|--- |--- 
+| 1000 | Novo salario: 1120,00
+| --- | Reajuste ganho: 120,00
+| --- | Em percentual: 12 %
