@@ -14,29 +14,11 @@ A entrada consiste de uma única linha que contém dois inteiros H e P (1 ≤ H,
 
 Seu programa deve produzir uma única linha com um número racional representando o número médio de cachorros-quentes consumidos pelos participantes. O resultado deve ser escrito como um número racional com exatamente dois dígitos após o ponto decimal, arredondado se necessário.
 
-Exemplos de Entrada	Exemplos de Saída
-10 90
-
-0.11
-
  
-
-Exemplos de Entrada	Exemplos de Saída
-840 11
-
-76.36
-
- 
-
-Exemplos de Entrada	Exemplos de Saída
-1 50	
-0.02
-
- 
-
-Exemplos de Entrada	Exemplos de Saída
-34 1000	0.03
- 
-
-Exemplos de Entrada	Exemplos de Saída
-35 1000	0.04
+| Entrada | Saída |
+|---------|-------|
+| 10 90   |  0.11 |
+| 840 11  | 76.36 |
+| 1 50    |  0.02 |
+| 34 1000 |  0.03 |
+| 35 1000 |  0.04 |
