@@ -22,3 +22,13 @@ Seu programa deve produzir uma única linha com um número racional representand
 | 1 50    |  0.02 |
 | 34 1000 |  0.03 |
 | 35 1000 |  0.04 |
+
+# Desafio intermediario 1
+
+Dada a letra N do alfabeto, nos diga qual a sua posição.
+
+Entrada
+Um único caracter N, uma letra maiúscula ('A'-'Z') do alfabeto (que contém 26 letras).
+
+Saída
+Um único inteiro, que representa a posição da letra no alfabeto.
